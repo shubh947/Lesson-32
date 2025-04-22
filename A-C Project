@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" />
 
     <!-- My CSS -->
-    <link rel="stylesheet" href="style1.css" />
+    <link rel="stylesheet" href="style2.css" />
 
     <!-- Font Awesome -->
     <script src="https://kit.fontawesome.com/996973c893.js"></script>
@@ -26,13 +26,13 @@
     <!-- Social Media Section -->
     <div id="social-media" class="container-fluid">
         <div class="container text-white py-5">
-            <h4 class="text-warning">Games</h4>
-            <h1 class="m-heading">My top 4 favourite games</h1>
+            <h4 class="text-warning">Restaurant</h4>
+            <h1 class="m-heading">My restaurant menu</h1>
             <div class="row pt-5">
                 <div class="col-3 media_link btn" href="#">
                     <div class="row">
                         <div class="col-6 d-flex justify-content-start">
-                            <h3 class="m-0 pt-2 text-white">PUBG</h3>
+                            <h3 class="m-0 pt-2 text-white">Kentucy fried chicken</h3>
                         </div>
                         <div class="col-6 d-flex justify-content-end align-items-center">
                             <i class="fab fa-linkedin-in fa-2x text-secondary"></i>
@@ -43,7 +43,7 @@
                 <div class="col-3 media_link btn">
                     <div class="row">
                         <div class="col-6 d-flex justify-content-start">
-                            <h3 class="m-0 pt-2 text-white">GTA 6</h3>
+                            <h3 class="m-0 pt-2 text-white">Butter chicken + Garlic naan</h3>
                         </div>
                         <div class="col-6 d-flex justify-content-end align-items-center">
                             <i class="fab fa-github fa-2x text-secondary"></i>
@@ -54,7 +54,7 @@
                 <div class="col-3 media_link btn">
                     <div class="row">
                         <div class="col-6 d-flex justify-content-start">
-                            <h3 class="m-0 pt-2 text-white">GTA 5</h3>
+                            <h3 class="m-0 pt-2 text-white">Lassi</h3>
                         </div>
                         <div class="col-6 d-flex justify-content-end align-items-center">
                             <i class="fab fa-youtube fa-2x text-secondary"></i>
@@ -66,7 +66,7 @@
                     <div class="row">
                         <div class="col-6 d-flex justify-content-start">
                             <h3 class="m-0 pt-2 text-dark"><a
-                                    href="https://www.youtube.com/watch?v=8wof_hJ-14M">Fortnite</a></h3>
+                                    href="https://www.youtube.com/watch?v=8wof_hJ-14M">Diet coke</a></h3>
                         </div>
                         <div class="col-6 d-flex justify-content-end align-items-center">
 
